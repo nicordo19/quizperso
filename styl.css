@@ -1,0 +1,62 @@
+body {
+  background-image: url("https://img.freepik.com/vecteurs-libre/illustration-banniere-vectorielle-eclair-tonnerre-fond-bleu-abstrait-etincelles-neon-lumiere_528282-302.jpg?t=st=1730302948~exp=1730306548~hmac=497fb98f62c5a9c122da066fe9b84f29d57a1ee241b8efda95d73d3eb057ed54&w=1480");
+}
+.question1 {
+  color: aliceblue;
+  text-align: center;
+  margin: 30px;
+  padding: 10%;
+  font-size: 200%;
+}
+
+.question1 {
+  color: rgb(37, 208, 60);
+}
+#bouton-contenair {
+  text-align: center;
+  margin: 8px;
+}
+.bouton1 {
+  width: 50%; /* Largeur fixe pour des boutons de même taille */
+  padding: 15px 20px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin: 19px;
+  color: aliceblue;
+  background: rgb(27, 120, 46);
+  background: radial-gradient(
+    circle,
+    rgb(14, 8, 29) 4%,
+    rgb(19, 29, 218) 27%,
+    rgba(130, 145, 243, 0.363) 41%,
+    rgb(8, 2, 57) 66%,
+    rgb(10, 10, 223) 73%,
+    rgb(33, 10, 166) 79%,
+    rgb(21, 7, 213) 91%
+  );
+}
+.bouton2 {
+  margin: 19px;
+  color: aliceblue;
+  background: rgb(27, 120, 46);
+  background: radial-gradient(
+    circle,
+    rgb(14, 8, 29) 4%,
+    rgb(19, 29, 218) 27%,
+    rgba(130, 145, 243, 0.363) 41%,
+    rgb(8, 2, 57) 66%,
+    rgb(10, 10, 223) 73%,
+    rgb(33, 10, 166) 79%,
+    rgb(21, 7, 213) 91%
+  );
+}
+#next-question {
+  text-align: right;
+  margin-right: 3cm;
+  margin-top: 1cm;
+}
